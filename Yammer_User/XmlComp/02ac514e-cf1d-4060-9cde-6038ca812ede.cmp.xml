@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata fileAssetGuid="02ac514e-cf1d-4060-9cde-6038ca812ede" assetTypeId="CompanionFile">
+  <topic id="02ac514e-cf1d-4060-9cde-6038ca812ede" revisionNumber="18" createDate="2014-05-16T20:26:00.000">
+    <title>Say hello to Yammer</title>
+    <keyword index="K">Yammer login</keyword>
+  </topic>
+  <attributes>
+    <attribute name="Asset Begin Date">2013-05-13T00:00:00.000</attribute>
+    <attribute name="Catalog Container">System_Default_Catalog</attribute>
+    <attribute name="Collections">Adm_UI_Elements</attribute>
+    <attribute name="Collections">EU_O365_Apps_Services</attribute>
+    <attribute name="Content Set Container">System_Default_Content_Set</attribute>
+    <attribute name="Content Summary">Tips for getting started with Yammer.</attribute>
+    <attribute name="Context Sensitive ID">O365E_GAL_Collaborate</attribute>
+    <attribute name="Context Sensitive ID">O365E_StartYammer</attribute>
+    <attribute name="DCSext.Audience">Admin</attribute>
+    <attribute name="DCSext.Confidentiality">customer ready</attribute>
+    <attribute name="DCSext.ContentType">How To</attribute>
+    <attribute name="DCSext.OperatingSystems">not applied</attribute>
+    <attribute name="DCSext.ProficiencyLevel">Proficient (200)</attribute>
+    <attribute name="DCSext.RelatedProducts">Office 365 Enterprise</attribute>
+    <attribute name="DCSext.RelatedProducts">Office 365 Midsize Business</attribute>
+    <attribute name="DCSext.RelatedProducts">SharePoint Online</attribute>
+    <attribute name="DCSext.RelatedProducts">Yammer Enterprise</attribute>
+    <attribute name="DCSext.Role">not applied</attribute>
+    <attribute name="OCMS Asset ID">HA102788378</attribute>
+    <attribute name="OCMS Asset ID">HA104062139</attribute>
+    <attribute name="OCMS Version">0.31</attribute>
+    <attribute name="ProjectFileAssetType">DocSchema</attribute>
+    <attribute name="ProjectPublishingDestination">SOC</attribute>
+    <attribute name="redirectGUID">02AC514E-CF1D-4060-9CDE-6038CA812EDE</attribute>
+    <attribute name="Set_Free_Tag">User_Yammer</attribute>
+    <attribute name="zztool_trackedInRawhide">Yes</attribute>
+    <attribute name="search.operatingSystemid">7478f241-7574-45ef-959c-b8be90099896</attribute>
+    <attribute name="search.operatingSystem">not applied</attribute>
+    <attribute name="search.contenttype">How To</attribute>
+    <attribute name="search.audienceType">Admin</attribute>
+    <attribute name="search.contextid">O365E_GAL_Collaborate</attribute>
+    <attribute name="search.contextid">O365E_StartYammer</attribute>
+    <attribute name="Search.OCMSasset">HA102788378</attribute>
+    <attribute name="Search.OCMSasset">HA104062139</attribute>
+    <attribute name="search.appverid">MET150</attribute>
+    <attribute name="search.applicationSuite">Office</attribute>
+    <attribute name="search.softwareVersion">15</attribute>
+    <attribute name="search.sku">Office 365 Enterprise</attribute>
+    <attribute name="search.skuid">MET150</attribute>
+    <attribute name="search.appverid">SPO160</attribute>
+    <attribute name="search.softwareVersion">16</attribute>
+    <attribute name="search.appverid">MEW150</attribute>
+    <attribute name="search.softwareVersion">15</attribute>
+    <attribute name="search.sku">Office 365 Midsize Business</attribute>
+    <attribute name="search.skuid">MEW150</attribute>
+    <attribute name="search.appverid">YAE150</attribute>
+    <attribute name="search.softwareVersion">15</attribute>
+    <attribute name="search.sku">Yammer Enterprise</attribute>
+    <attribute name="search.skuid">YAE150</attribute>
+    <attribute name="search.assetid">02ac514e-cf1d-4060-9cde-6038ca812ede</attribute>
+    <attribute name="C3_ENABLED">True</attribute>
+  </attributes>
+  <art>
+    <item id="e9547fd6-4200-44a8-9e25-1928d260d23c">
+      <image file="Art\e9547fd6-4200-44a8-9e25-1928d260d23c\e9547fd6-4200-44a8-9e25-1928d260d23c.png" metadataAssetGuid="e9547fd6-4200-44a8-9e25-1928d260d23c">
+        <title>YAM_LikeReplyShare</title>
+        <altText>Bar showing actions that can be done on any Yammer message</altText>
+      </image>
+    </item>
+    <item id="cd69a44b-5590-46c7-9e1f-383b8bf6ae87">
+      <image file="Art\cd69a44b-5590-46c7-9e1f-383b8bf6ae87\cd69a44b-5590-46c7-9e1f-383b8bf6ae87.png" metadataAssetGuid="cd69a44b-5590-46c7-9e1f-383b8bf6ae87">
+        <title>YAM_Follow</title>
+        <altText>User's hover card showing the Follow button</altText>
+      </image>
+    </item>
+    <item id="2cc2997f-9ca2-4312-afad-3ddb6a83ec11">
+      <image file="Art\2cc2997f-9ca2-4312-afad-3ddb6a83ec11\2cc2997f-9ca2-4312-afad-3ddb6a83ec11.png" metadataAssetGuid="2cc2997f-9ca2-4312-afad-3ddb6a83ec11">
+        <title>YAM_AddGroup</title>
+        <altText>Yammer home page showing groups and add group buttons</altText>
+      </image>
+    </item>
+    <item id="1a834094-d938-4065-92de-41da9a0ee3f9">
+      <image file="Art\1a834094-d938-4065-92de-41da9a0ee3f9\1a834094-d938-4065-92de-41da9a0ee3f9.png" metadataAssetGuid="1a834094-d938-4065-92de-41da9a0ee3f9">
+        <title>YAM_Inbox</title>
+        <altText>Inbox icon on home page</altText>
+      </image>
+    </item>
+    <item id="21fdb67c-8863-47d0-aa1c-447d563930e5">
+      <image file="Art\21fdb67c-8863-47d0-aa1c-447d563930e5\21fdb67c-8863-47d0-aa1c-447d563930e5.png" metadataAssetGuid="21fdb67c-8863-47d0-aa1c-447d563930e5">
+        <title>Feed_c3m_201802413728</title>
+        <altText>Feed</altText>
+        <localizedText>Localized text not available</localizedText>
+      </image>
+    </item>
+    <item id="e3f42cb9-2e3f-4138-bf37-62728a23d540">
+      <image file="Art\e3f42cb9-2e3f-4138-bf37-62728a23d540\e3f42cb9-2e3f-4138-bf37-62728a23d540.png" metadataAssetGuid="e3f42cb9-2e3f-4138-bf37-62728a23d540">
+        <title>o15_sp_e_yammerhome</title>
+        <altText>Screenshot of Yammer.com home page</altText>
+      </image>
+    </item>
+    <item id="d9378a9a-fb0a-4313-96e5-bc6c9f1d5827">
+      <image file="Art\d9378a9a-fb0a-4313-96e5-bc6c9f1d5827\d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png" metadataAssetGuid="d9378a9a-fb0a-4313-96e5-bc6c9f1d5827">
+        <title>YAM_MoreIcon</title>
+        <altText>More icon (...)</altText>
+      </image>
+    </item>
+    <item id="39f59f3c-e4d9-40c5-9bdc-d839249c97ca">
+      <image file="Art\39f59f3c-e4d9-40c5-9bdc-d839249c97ca\39f59f3c-e4d9-40c5-9bdc-d839249c97ca.png" metadataAssetGuid="39f59f3c-e4d9-40c5-9bdc-d839249c97ca">
+        <title>Group-to-group transition_c3m_20180241389</title>
+        <altText>Group-to-group transition</altText>
+        <localizedText>Localized text not available</localizedText>
+      </image>
+    </item>
+    <item id="453f8f89-ccd2-407e-b621-fa652656bd91">
+      <image file="Art\453f8f89-ccd2-407e-b621-fa652656bd91\453f8f89-ccd2-407e-b621-fa652656bd91.png" metadataAssetGuid="453f8f89-ccd2-407e-b621-fa652656bd91">
+        <title>YAM_ReplyBox</title>
+        <altText>Box showing where you can enter your reply</altText>
+      </image>
+    </item>
+  </art>
+</metadata>

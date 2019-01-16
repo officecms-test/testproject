@@ -1,0 +1,253 @@
+{
+  "Project": {
+    "Name": "TRN_Yammer_NAV",
+    "navType": "Multimedia",
+    "homepageTitle": "Yammer video training",
+    "homepagePath": "2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a",
+    "Article": [
+      {
+        "Title": "Yammer Quick Start",
+        "Guid": "3126b6d2-7669-4ca5-97ea-9be8438597ac",
+        "Link": "/en-us/article/3126b6d2-7669-4ca5-97ea-9be8438597ac",
+        "IsCategoryOnly": "True",
+        "Live": "True",
+        "Article": [
+          {
+            "Title": "Sign in",
+            "Guid": "d863154a-4223-4ea2-8855-ccc971321b8e",
+            "Link": "/en-us/article/d863154a-4223-4ea2-8855-ccc971321b8e",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Discover conversations and groups",
+            "Guid": "b6a102d1-6972-4df2-993c-587d1c4d1298",
+            "Link": "/en-us/article/b6a102d1-6972-4df2-993c-587d1c4d1298",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Join the conversation",
+            "Guid": "873100a0-0fac-4f93-88f7-1a0945ec93ed",
+            "Link": "/en-us/article/873100a0-0fac-4f93-88f7-1a0945ec93ed",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Collaborate",
+            "Guid": "93123baa-08fc-408d-af15-a6a87e7b545f",
+            "Link": "/en-us/article/93123baa-08fc-408d-af15-a6a87e7b545f",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Set up your mobile apps",
+            "Guid": "4efd5366-e471-4f9f-b7cf-a40f3e6f8f01",
+            "Link": "/en-us/article/4efd5366-e471-4f9f-b7cf-a40f3e6f8f01",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Learn more",
+            "Guid": "5d5f600a-26f9-49a8-85cf-f7eb7ab5f68c",
+            "Link": "/en-us/article/5d5f600a-26f9-49a8-85cf-f7eb7ab5f68c",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          }
+        ]
+      },
+      {
+        "Title": "Roll out a successful Yammer network",
+        "Guid": "a9bc69f2-5449-4d37-a22c-25ca9496551b",
+        "Link": "/en-us/article/a9bc69f2-5449-4d37-a22c-25ca9496551b",
+        "IsCategoryOnly": "True",
+        "Live": "True",
+        "Article": [
+          {
+            "Title": "What is Yammer?",
+            "Guid": "1b0f3b3e-89ee-4b66-aac5-30def12f287c",
+            "Link": "/en-us/article/1b0f3b3e-89ee-4b66-aac5-30def12f287c",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Plan your strategy",
+            "Guid": "a19aedab-6dc8-44b1-a8c3-72c38abf18b4",
+            "Link": "/en-us/article/a19aedab-6dc8-44b1-a8c3-72c38abf18b4",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Personalize a Yammer network",
+            "Guid": "bea38233-f248-4665-903f-558f731ea54c",
+            "Link": "/en-us/article/bea38233-f248-4665-903f-558f731ea54c",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Identify the right use cases",
+            "Guid": "af6075de-475a-4e8e-9d04-0da4b6014814",
+            "Link": "/en-us/article/af6075de-475a-4e8e-9d04-0da4b6014814",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Create a group for a use case",
+            "Guid": "7f0cf5d8-1f9d-48d2-a83c-d777578fa4a0",
+            "Link": "/en-us/article/7f0cf5d8-1f9d-48d2-a83c-d777578fa4a0",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Prepare for launch",
+            "Guid": "ef2ff162-bc37-4aaf-a1e6-703d2745c99c",
+            "Link": "/en-us/article/ef2ff162-bc37-4aaf-a1e6-703d2745c99c",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Educate users",
+            "Guid": "83237bfc-517a-492c-8fff-ae369a1f6fc8",
+            "Link": "/en-us/article/83237bfc-517a-492c-8fff-ae369a1f6fc8",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Drive ongoing engagement",
+            "Guid": "ba276bcc-dfd8-48e9-970d-6c854b501da2",
+            "Link": "/en-us/article/ba276bcc-dfd8-48e9-970d-6c854b501da2",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Embed Yammer conversations in a site",
+            "Guid": "175d913b-386d-4fa7-933b-b9b7ff8f4b4e",
+            "Link": "/en-us/article/175d913b-386d-4fa7-933b-b9b7ff8f4b4e",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          },
+          {
+            "Title": "Measure success",
+            "Guid": "f6047dff-8dc3-4d1e-a939-617e02211f3e",
+            "Link": "/en-us/article/f6047dff-8dc3-4d1e-a939-617e02211f3e",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          }
+        ]
+      },
+      {
+        "Title": "Use Yammer every day",
+        "Guid": "f1c68dee-e3b8-4be2-acad-4a8fb4fc119a",
+        "Link": "/en-us/article/f1c68dee-e3b8-4be2-acad-4a8fb4fc119a",
+        "IsCategoryOnly": "True",
+        "Live": "True",
+        "Article": [
+          {
+            "Title": "What is Yammer?",
+            "Guid": "47526868-b136-40cc-a80d-c870eadd9ba5",
+            "Link": "/en-us/article/47526868-b136-40cc-a80d-c870eadd9ba5",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Sign in and edit your profile",
+            "Guid": "dc06d227-c4c9-4fdb-9bfe-9f6a6b1caa83",
+            "Link": "/en-us/article/dc06d227-c4c9-4fdb-9bfe-9f6a6b1caa83",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Set notifications",
+            "Guid": "856d45cc-dd94-48de-bea6-ae4f9ecdc472",
+            "Link": "/en-us/article/856d45cc-dd94-48de-bea6-ae4f9ecdc472",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Like, reply to, and share posts",
+            "Guid": "da65b1c3-6651-4141-8dbd-d50d61b98a6e",
+            "Link": "/en-us/article/da65b1c3-6651-4141-8dbd-d50d61b98a6e",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Post an update and attach files",
+            "Guid": "53e74097-c1fc-4098-a8ad-cf40b8e02e6c",
+            "Link": "/en-us/article/53e74097-c1fc-4098-a8ad-cf40b8e02e6c",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Join and create groups",
+            "Guid": "52db606b-2f29-4a9a-8cbb-b43bf2a27d2e",
+            "Link": "/en-us/article/52db606b-2f29-4a9a-8cbb-b43bf2a27d2e",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Polls, praise, and announcements",
+            "Guid": "eb096f3b-ef81-49d8-9b44-9bec6fe50c3c",
+            "Link": "/en-us/article/eb096f3b-ef81-49d8-9b44-9bec6fe50c3c",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Discover and search in Yammer",
+            "Guid": "e9f31b53-f1b1-407f-8cd6-6cda93fe23be",
+            "Link": "/en-us/article/e9f31b53-f1b1-407f-8cd6-6cda93fe23be",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Create and edit files",
+            "Guid": "4ca4f40e-f9ee-4554-aa6d-e00687977875",
+            "Link": "/en-us/article/4ca4f40e-f9ee-4554-aa6d-e00687977875",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Share files and group resources",
+            "Guid": "544eb5b9-c69a-4609-ac09-bb169b1098d0",
+            "Link": "/en-us/article/544eb5b9-c69a-4609-ac09-bb169b1098d0",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Video"
+          },
+          {
+            "Title": "Keep it going",
+            "Guid": "b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0",
+            "Link": "/en-us/article/b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0",
+            "IsCategoryOnly": "False",
+            "Live": "True",
+            "articleType": "Article"
+          }
+        ]
+      }
+    ]
+  }
+}

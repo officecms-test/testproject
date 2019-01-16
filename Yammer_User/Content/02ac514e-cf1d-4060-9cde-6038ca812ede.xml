@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?><topic id="02ac514e-cf1d-4060-9cde-6038ca812ede" revisionNumber="18"><developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<introduction>
+		
+		<para><token>TE104090127</token> is a private social network that helps you get connected to the right people, share information across teams, and organize around projects. Only your coworkers can join, so your communications on <token>TE104090127</token> are secure and visible only to people within your organization</para>
+		<para>Sign in with your Office 365 username and password, or create an account using your corporate email address.</para>
+		<para><mediaLinkInline><image xlink:href="e3f42cb9-2e3f-4138-bf37-62728a23d540" /></mediaLinkInline></para>
+	</introduction>
+	<section>
+		<title>Now, let’s get started</title>
+		<content>
+			<para>Want a guided tour? Go to the <link xlink:href="d863154a-4223-4ea2-8855-ccc971321b8e">Yammer Quick Start training</link>.</para>
+			<para>For some quick tips, take a look at the following table. If you’re looking for more detail, see <link xlink:href="47526868-b136-40cc-a80d-c870eadd9ba5">Use Yammer every day</link>.</para>
+			<table>
+				<thead>
+					<tr>
+						<TD>
+							<para>Tip</para>
+						</TD>
+						<TD>
+							<para>How it works…</para>
+						</TD>
+						<TD>
+							<para>Look for…</para>
+						</TD>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<TD>
+							<para>Join a group</para>
+						</TD>
+						<TD>
+							<para>Groups are a great way to get work done with a team or to stay informed about a topic. The All Company Group is the default group everyone posts into—you’re automatically part of this group. You can join any public group, but need to be invited to a private group. Click <ui>Groups</ui> link to find groups you want to join or to create a new group. Click the + to create a new public or private group.</para>
+						</TD>
+						<TD>
+							<para><mediaLinkInline><image xlink:href="2cc2997f-9ca2-4312-afad-3ddb6a83ec11" /></mediaLinkInline></para>
+						</TD>
+					</tr>
+					<tr>
+						<TD>
+							<para>Follow someone</para>
+						</TD>
+						<TD>
+							<para>When you follow someone on <token>TE104090127</token> it means you want to see messages from them in your feed. You can search for people by name using the search box, or you can scroll through the All Company feed and follow someone that’s posting about things that interest you.</para>
+						</TD>
+						<TD>
+							<para><mediaLinkInline><image xlink:href="cd69a44b-5590-46c7-9e1f-383b8bf6ae87" /></mediaLinkInline></para>
+						</TD>
+					</tr>
+					<tr>
+						<TD>
+							<para>Like someone’s message</para>
+						</TD>
+						<TD>
+							<para>When you <ui>Like</ui> a message, the person who posted the message will receive a notification that you liked it. Use likes to indicate agreement with an idea, acknowledgment that you’ve seen a message, or just to let someone know you like what they’re saying.</para>
+						</TD>
+						<TD>
+							<para><mediaLinkInline><image xlink:href="e9547fd6-4200-44a8-9e25-1928d260d23c" /></mediaLinkInline></para>
+						</TD>
+					</tr>
+					<tr>
+						<TD>
+							<para>Reply to a conversation</para>
+						</TD>
+						<TD>
+							<para>Replying to messages is a core part of what makes <token>TE104090127</token> useful. When you reply to a message, <token>TE104090127</token> starts a thread. That makes it easier to keep track of what everyone is saying. To reply to a message, click <ui>Reply</ui> under the message and a reply box will appear.</para>
+							<para>Want to use an emoji? In Windows 10, press the Windows logo key + period (.) . On a Mac, use Ctrl+Cmd+Space.</para>
+						</TD>
+						<TD>
+							<para><mediaLinkInline><image xlink:href="453f8f89-ccd2-407e-b621-fa652656bd91" /></mediaLinkInline></para>
+						</TD>
+					</tr>
+					<tr>
+						<TD>
+							<para>Check your Inbox</para>
+						</TD>
+						<TD>
+							<para>Your Inbox is a single place for you to view, prioritize, and manage all of the conversations that are most relevant to you on <token>TE104090127</token>. Your Inbox contains the messages that you are following. That includes private messages, announcements, and conversations you have participated in or have been @mentioned in. You can also choose to follow any conversation you wish by selecting the More icon <mediaLinkInline><image xlink:href="d9378a9a-fb0a-4313-96e5-bc6c9f1d5827" /></mediaLinkInline> and choosing <ui>Follow in Inbox</ui>.</para>
+						</TD>
+						<TD>
+							<para><mediaLinkInline><image xlink:href="1a834094-d938-4065-92de-41da9a0ee3f9" /></mediaLinkInline></para>
+						</TD>
+					</tr>
+				</tbody>
+			</table>
+		</content>
+	</section>
+	<section>
+		<title>Join the conversation</title>
+		<content>
+			<para>The feed is your information hub. There are three feed views that you can toggle between:</para>
+			<list class="bullet">
+				<listItem>
+					<para><embeddedLabel>Discovery</embeddedLabel> This is a feed of the conversations most relevant to you, based on what you subscribe to and your interactions with <token>TE104090127</token> network content.</para>
+				</listItem>
+				<listItem>
+					<para><embeddedLabel>All</embeddedLabel> These are all the conversations to which you have access within your company network.</para>
+				</listItem>
+				<listItem>
+					<para><embeddedLabel>Following</embeddedLabel> These are the conversations you actively subscribe to, including conversations that your followers have participated in or liked and conversations that have been tagged with a topic you follow.</para>
+				</listItem>
+			</list>
+			<para />
+			<para><mediaLinkInline><image xlink:href="21fdb67c-8863-47d0-aa1c-447d563930e5" /></mediaLinkInline></para>
+			<para>To view your groups' conversations, use the left navigation and go directly to the group to see new conversations in your groups. When you're all caught up, click the group-to-group transition link at the bottom of your feed to go to your next groups' new conversations.</para>
+			<para><mediaLinkInline><image xlink:href="39f59f3c-e4d9-40c5-9bdc-d839249c97ca" /></mediaLinkInline></para>
+		</content>
+	</section>
+	<section>
+		<title>See Also</title>
+		<content>
+			<para><link xlink:href="2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a">Yammer video training</link></para>
+			<para><link xlink:href="a3aeca0e-de34-4897-9b59-de6516542851">Change my Yammer profile and settings</link></para>
+			<para><link xlink:href="f576d4d1-ad66-4ce4-9c43-46cf75978dbf">Attach a file to a Yammer message</link></para>
+			<para><link xlink:href="913dbeab-7efd-4789-8f4d-a666fe315d85">Edit documents from Yammer</link></para>
+			<para><link xlink:href="40ae9666-75c0-4254-a84c-d87a9542f380">Tips for staying organized in Yammer</link></para>
+			<para><externalLink><linkText>Office 365 Learning Center</linkText><linkUri>https://go.microsoft.com/fwlink/?LinkId=511461</linkUri></externalLink></para>
+		</content>
+	</section>
+	<relatedTopics />
+</developerConceptualDocument></topic>
